@@ -1,1 +1,1 @@
-# ezen_project01
+# 설정정보

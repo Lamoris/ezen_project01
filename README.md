@@ -17,3 +17,9 @@ https://mvnrepository.com/artifact/org.projectlombok/lombok
 <h2> Maven </h2>
 Maven Eclipse terminal에서 실행시키기
 http://itnovice1.blogspot.com/2019/01/maven-maven-wrapper.html<br>
+<hr>
+
+<h2> UML </h2>
+UML :
+https://app.diagrams.net/#G1vDKdqdX5QKkIePFko3aVdo5bgMUXWCqP
+<hr>

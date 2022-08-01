@@ -5,7 +5,6 @@ https://www.toptal.com/developers/gitignore<br>
 
 git 특정 파일또는 폴더 제외 or 무시하기
 https://kcmschool.com/194<br>
-
 [Git Bash] Git Bash로 commit하고 push하기
 https://korin-learning.tistory.com/98<br>
 <hr>

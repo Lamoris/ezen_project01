@@ -35,6 +35,7 @@ Chatting 좌우로 나누는 JavaScript
 https://dororongju.tistory.com/151<br>
 <hr>
 
-<h2> Modeling <h2>
+<h2> Modeling </h2>
+모델링
 https://wonit.tistory.com/466
 <br>

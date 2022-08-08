@@ -151,7 +151,7 @@
 			<version>2.9.0</version>
 		</dependency>
 		
-		<!-- google oauth2 login -->
+		<!-- google oauth2 login  -->
 		<dependency>
 			<groupId>com.github.scribejava</groupId>
 			<artifactId>scribejava-apis</artifactId>

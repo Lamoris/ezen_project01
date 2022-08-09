@@ -5,6 +5,8 @@ import java.sql.Date;
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -30,6 +32,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Table(name = "member")
 public class Member {
+	
+	@Column(nullable = false)
+	private static final String role = "ROLE_MEMBER";
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)

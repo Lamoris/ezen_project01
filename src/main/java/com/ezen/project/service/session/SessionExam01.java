@@ -1,5 +1,5 @@
 package com.ezen.project.service.session;
 
-public class Member {
+public class SessionExam01 {
 
 }

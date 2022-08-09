@@ -1,6 +1,7 @@
 package com.ezen.project.Repository;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
@@ -17,4 +18,6 @@ public interface MemberRepository extends JpaRepository<Member, Long>{
 	int update_value(Long familyId,Long memberId);	
 
 	List<Member> findByMemberEmail(String memberEmail);
+	
+	Optional<Member> findByEmail(String memberEmail);
 }

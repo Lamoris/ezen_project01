@@ -18,7 +18,7 @@ public class SessionExamController {
 	@PostMapping("")
 	@ResponseBody
 	public boolean SessionExampleResponse(HttpServletRequest request) {
-		Member exam = new Member();
+		SessionExam01 exam = new SessionExam01();
 		// 인증내용
 		sessionExample.setAttribute(exam);
 		return true;
